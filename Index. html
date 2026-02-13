@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Valentine Proposal 💖</title>
+  <style>
+    body {
+      background: linear-gradient(135deg, #ff5f8a, #ff85a1);
+      font-family: 'Segoe UI', sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      color: #fff;
+    }
+    .card {
+      background: rgba(0,0,0,0.25);
+      padding: 30px;
+      border-radius: 15px;
+      text-align: center;
+      max-width: 420px;
+      box-shadow: 0 10px 30px rgba(0,0,0,
